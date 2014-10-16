@@ -1,0 +1,158 @@
+/*h1 a{
+	font-family: "arial";
+}*/
+
+header{
+	width: 963px;
+}
+
+body{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	font-family: "arial";
+}
+
+img.circular{
+	width: 215px;
+	height: 215px;
+	border-radius: 150px;
+	-webkit-border-radius:150px;
+	-moz-border-radius:150px;
+	background: url('images/profile_png.png');
+	clear: left;
+}
+
+#about_table_content img{
+	/*margin-top: 90px;*/
+}
+
+#menu_content{
+	display: inline;
+}
+
+#menu_content h1{
+	font-family: "Times New Roman";
+}
+
+#menu_content ul{
+	background: #333;
+	height: 100%;
+	width: 100%;
+	float:right;
+	list-style-type: none;
+	margin:0px;
+	padding:0px;
+	padding-bottom: 10px;
+}
+
+#menu_content li{
+	float: right;
+	display: inline-block;
+	margin-right: 5%;
+	margin-top: 10px;
+}
+
+#menu_content a{
+	color: white;
+	background: #333;
+	float:left;
+	margin-left: 20px;
+	font-size: 125%;
+}
+
+#banner img {
+	width: 100%;
+	margin-bottom: 0px;
+}
+
+#content{
+	
+}
+
+/* ABOUT ME */
+#about{
+	clear: both;
+}
+
+#about img{
+	float: right;
+	margin-right: 5%;
+	position: relative;
+	padding-left:0;
+	top: -70px;
+}
+
+#about p{
+	float: left;
+	display: block;
+	padding-right: 10%;
+}
+
+h2.title{
+	margin-left: 20px;
+}
+
+
+/* EXPERIENCE */
+#experience{
+	clear: both;
+	background: #ccc;
+	padding-bottom: 5%;
+	padding-top: 1%;
+}
+
+#jpl{
+	padding-bottom: 15%;
+}
+
+#jpl img{
+	width: 100px;
+}
+
+#esri{
+	padding-top: 15%;
+}
+
+#esri img{
+	width: 100px;
+}
+
+#experience h2{
+}
+
+#experience p{
+
+}
+
+
+/* RESUME */
+#resume{
+	clear: both;
+}
+
+/*FOOTER*/
+#footer{
+	background: #333;
+}
+
+#footer p{
+	color: white;
+	text-align: center;
+	height: 50px;
+	padding-top: 25px;
+	padding-bottom: 0px;
+}
+
+/* LINKS */
+a:link, a:visited{
+	text-decoration: none;
+	font-size: 125%;
+	font-family: "arial";
+}
+
+a:hover, a:active{
+	text-decoration: none;
+}
+
