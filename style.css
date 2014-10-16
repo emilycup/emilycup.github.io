@@ -1,9 +1,12 @@
-/*h1 a{
-	font-family: "arial";
-}*/
+/*   
+Personal Website CSS
+Author: Emily Le
+*/
 
 header{
-	width: 963px;
+	margin: 0 auto 20px auto;
+	width: 963px; 
+  	height: 185px;
 }
 
 body{
@@ -14,19 +17,7 @@ body{
 	font-family: "arial";
 }
 
-img.circular{
-	width: 215px;
-	height: 215px;
-	border-radius: 150px;
-	-webkit-border-radius:150px;
-	-moz-border-radius:150px;
-	background: url('images/profile_png.png');
-	clear: left;
-}
-
-#about_table_content img{
-	/*margin-top: 90px;*/
-}
+/*MENU STYLE*/
 
 #menu_content{
 	display: inline;
@@ -34,6 +25,7 @@ img.circular{
 
 #menu_content h1{
 	font-family: "Times New Roman";
+	font-size: 150%;
 }
 
 #menu_content ul{
@@ -73,22 +65,32 @@ img.circular{
 
 /* ABOUT ME */
 #about{
-	clear: both;
+    display: block;
+    float: none;
+    clear: both;
+    padding-bottom: 3%;
 }
 
-#about img{
-	float: right;
-	margin-right: 5%;
+p.leftText{
+     overflow: auto;
+     width: 70%;
+     padding-left: 3%;
+     float: left;
+}
+
+img.rightPic{
+	border-radius: 150px;
+	-webkit-border-radius:150px;
+	-moz-border-radius:150px;
+	background: url('images/profile_png.png');
+	width: 230px;
+	height: 230px;
+    margin-right: 5%;
+	float:right;
 	position: relative;
-	padding-left:0;
-	top: -70px;
+	bottom: 30px;
 }
 
-#about p{
-	float: left;
-	display: block;
-	padding-right: 10%;
-}
 
 h2.title{
 	margin-left: 20px;
@@ -119,13 +121,6 @@ h2.title{
 	width: 100px;
 }
 
-#experience h2{
-}
-
-#experience p{
-
-}
-
 
 /* RESUME */
 #resume{
@@ -140,10 +135,23 @@ h2.title{
 #footer p{
 	color: white;
 	text-align: center;
-	height: 50px;
-	padding-top: 25px;
+	height: 45px;
+	padding-top: 30px;
 	padding-bottom: 0px;
+	margin-bottom: 0px;
 }
+
+/*CLASSES*/
+/*img.circular{
+	width: 215px;
+	height: 215px;
+	border-radius: 150px;
+	-webkit-border-radius:150px;
+	-moz-border-radius:150px;
+	background: url('images/profile_png.png');
+	clear: left;
+	float:right;
+}*/
 
 /* LINKS */
 a:link, a:visited{
