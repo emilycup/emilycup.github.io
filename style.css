@@ -65,17 +65,15 @@ body{
 
 /* ABOUT ME */
 #about{
-    display: block;
-    float: none;
-    clear: both;
-    padding-bottom: 3%;
+
 }
 
 p.leftText{
      overflow: auto;
-     width: 70%;
+     max-width: 60%;
      padding-left: 3%;
      float: left;
+     display: block;
 }
 
 img.rightPic{
