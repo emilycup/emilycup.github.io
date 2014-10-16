@@ -89,8 +89,8 @@ img.rightPic{
 
 img.quote{
 	margin-left: 20%;
-	width: 500px;
-	height: 80px;
+	width: 455px;
+	height: 75px;
 }
 
 
@@ -103,8 +103,12 @@ img.quote{
 	padding-top: 1%;
 }
 
+#experience table{
+	padding-left: 3%;
+}
+
 #jpl{
-	padding-bottom: 15%;
+	padding-top: 15%;
 }
 
 #jpl img{
@@ -112,11 +116,11 @@ img.quote{
 }
 
 #esri{
-	padding-top: 15%;
+	padding-bottom: 15%;
 }
 
 #esri img{
-	width: 100px;
+	width: 125px;
 }
 
 
