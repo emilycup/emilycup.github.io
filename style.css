@@ -69,10 +69,9 @@ body{
 }
 
 p.leftText{
-     overflow: auto;
-     max-width: 60%;
+     max-width: 70%;
      padding-left: 3%;
-     float: left;
+   /*  float: left;*/
      display: block;
 }
 
@@ -84,15 +83,19 @@ img.rightPic{
 	width: 230px;
 	height: 230px;
     margin-right: 5%;
+    margin-left: 3%;
+    margin-bottom: 3%;
 	float:right;
-	position: relative;
-	bottom: 30px;
+	/*position: relative;
+	bottom: 30px;*/
 }
 
-
-h2.title{
-	margin-left: 20px;
+p.quote{
+	font-style: italic;
+	font-size: 125%;
+	padding-left: 5%;
 }
+
 
 
 /* EXPERIENCE */
@@ -150,6 +153,9 @@ h2.title{
 	clear: left;
 	float:right;
 }*/
+h2.title{
+	margin-left: 20px;
+}
 
 /* LINKS */
 a:link, a:visited{
