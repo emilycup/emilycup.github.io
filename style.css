@@ -38,7 +38,7 @@ body{
 
 #menu_content h1{
 	font-family: 'Sullivan-Regular';
-	font-size: 150%;
+	font-size: 190%;
 }
 
 #menu_content ul{
@@ -64,8 +64,8 @@ body{
 	background: #333;
 	float:left;
 	margin-left: 20px;
-	font-family: ullivan-Regular, Arial;
-	font-size: 125%;
+	font-family: 'Sullivan-Regular', Arial;
+	font-size: 150%;
 }
 
 #banner img {
