@@ -20,6 +20,7 @@ body{
 	margin-bottom: 0px;
 	margin-left: 0px;
 	margin-right: 0px;
+	font-family: Helvetica;
 }
 
 /*MENU STYLE*/
@@ -200,17 +201,6 @@ img.email{
 	margin-bottom: 0px;
 }
 
-/*CLASSES*/
-/*img.circular{
-	width: 215px;
-	height: 215px;
-	border-radius: 150px;
-	-webkit-border-radius:150px;
-	-moz-border-radius:150px;
-	background: url('images/profile_png.png');
-	clear: left;
-	float:right;
-}*/
 h2.title{
 	margin-left: 20px;
 	font-family: HunDIN1451, Arial;
