@@ -12,8 +12,8 @@ Author: Emily Le
    src: url('Homestead_Personal_License/Homestead-Regular.ttf');
 } 
 @font-face {
-   font-family: Raleway Thin; 
-   src: url('theleagueof-raleway-40afd9d/Raleway Thin.otf');
+   font-family: GoudyBookletter1911; 
+   src: url('theleagueof-goudy-bookletter-1911-85ff5b8/GoudyBookletter1911.otf');
 } 
 header{
 	margin: 0 auto 20px auto;
@@ -26,7 +26,8 @@ body{
 	margin-bottom: 0px;
 	margin-left: 0px;
 	margin-right: 0px;
-	font-family: 'Raleway Thin', Helvetica;
+	font-family: 'GoudyBookletter1911', Helvetica;
+	font-size: 130%;
 }
 
 /*MENU STYLE*/
