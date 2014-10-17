@@ -175,8 +175,8 @@ a.project_link{
 
 #contact table{
 	padding-top: 2%;
-	padding-left: 350px;
-	padding-bottom: 5%;
+	padding-left: 200px;
+	padding-bottom: 10%;
 }
 
 img.linkedin{
@@ -187,6 +187,10 @@ img.linkedin{
 img.github{
 	width: 175px;
 	padding-left: 30%;
+}
+
+img.soundcloud{
+	width: 175px;
 }
 
 img.email{
