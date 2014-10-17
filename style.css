@@ -4,8 +4,8 @@ Author: Emily Le
 */
 
 @font-face {
-   font-family: HunDIN1451; 
-   src: url('HunDIN1451.TTF');
+   font-family: Sullivan-Regular; 
+   src: url('Sullivan_Personal_License/Sullivan-Regular.otf');
 } 
 
 
@@ -30,7 +30,7 @@ body{
 }
 
 #menu_content h1{
-	font-family: Times New Roman;
+	font-family: 'Sullivan-Regular';
 	font-size: 150%;
 }
 
@@ -57,7 +57,7 @@ body{
 	background: #333;
 	float:left;
 	margin-left: 20px;
-	font-family: HunDIN1451, Arial;
+	font-family: ullivan-Regular, Arial;
 	font-size: 125%;
 }
 
@@ -203,15 +203,14 @@ img.email{
 
 h2.title{
 	margin-left: 20px;
-	font-family: HunDIN1451, Arial;
-	font-size: 30px;
+	font-family: 'Sullivan-Regular', Arial;
+	font-size: 50px;
 }
 
 /* LINKS */
 a:link, a:visited{
 	text-decoration: none;
 	font-size: 125%;
-	font-family: "arial";
 }
 
 a:hover, a:active{
