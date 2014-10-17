@@ -72,6 +72,10 @@ body{
 	color: #515946;
 }
 
+menu_content a:visited{
+	color: white;
+}
+
 #banner img {
 	width: 100%;	margin-bottom: 0px;
 }
