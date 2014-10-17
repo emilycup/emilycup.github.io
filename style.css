@@ -106,37 +106,40 @@ img.quote{
 
 #experience table{
 	padding-left: 3%;
+	width: 100%;
 }
 
-#esri{
-	padding-bottom: 30%;
+#experience td{
+	padding: 1%;
+	padding-right: 5%;
 }
 
 #esri img{
-	width: 125px;
+	width: 130px;
 }
 
-#jpl{
-	padding-bottom: 30%;
-}
 
 #jpl img{
-	width: 100px;
+	width: 105px;
 }
 
-#hackpoly{
-	padding-bottom: 30%;
-}
 
 #hackpoly img{
-	width: 125px;
-	height: 60px;
-}
-#acm{
+	width: 130px;
+	height: 65px;
 }
 
 #acm img{
-	width: 125px;
+	width: 130px;
+}
+
+td.content{
+	padding-right: 3%;
+	padding-top: 0%;
+}
+
+a.project_link{
+	font-size: 50px;
 }
 
 /* RESUME */
