@@ -219,7 +219,8 @@ h2.title{
 a:link, a:visited{
 	text-decoration: none;
 	font-size: 100%;
-	color:#81B681;
+	color: #1A9362;
+/*	color:#81B681;*/
 }
 
 a:hover, a:active{
