@@ -7,6 +7,10 @@ Author: Emily Le
    font-family: Sullivan-Regular; 
    src: url('Sullivan_Personal_License/Sullivan-Regular.otf');
 } 
+@font-face {
+   font-family: Homestead-Regular; 
+   src: url('Homestead_Personal_License/Homestead-Regular.ttf');
+} 
 
 
 header{
@@ -204,6 +208,7 @@ img.email{
 h2.title{
 	margin-left: 20px;
 	font-family: 'Sullivan-Regular', Arial;
+	color: #2B4748;
 	font-size: 50px;
 }
 
