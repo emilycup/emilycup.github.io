@@ -64,7 +64,7 @@ body{
 	background: #333;
 	float:left;
 	margin-left: 20px;
-	font-family: 'Sullivan-Regular', Arial;
+	font-family: 'GoudyBookletter1911', Arial;
 	font-size: 150%;
 }
 
@@ -175,10 +175,6 @@ a.project_link{
 	padding-bottom: 5%;
 }
 
-/*#contact td{
-	padding:5px;
-}*/
-
 img.linkedin{
 	width: 175px;
 	padding-left: 30%;
@@ -225,5 +221,6 @@ a:link, a:visited{
 
 a:hover, a:active{
 	text-decoration: none;
+	color: #515946;
 }
 
