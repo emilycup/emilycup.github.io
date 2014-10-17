@@ -68,6 +68,10 @@ body{
 	font-size: 150%;
 }
 
+#menu_content a:hover, a:active{
+	color: #515946;
+}
+
 #banner img {
 	width: 100%;	margin-bottom: 0px;
 }
