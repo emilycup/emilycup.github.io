@@ -15,6 +15,7 @@ Author: Emily Le
    font-family: GoudyBookletter1911; 
    src: url('theleagueof-goudy-bookletter-1911-85ff5b8/GoudyBookletter1911.otf');
 } 
+
 header{
 	margin: 0 auto 20px auto;
 	width: 963px; 
@@ -27,7 +28,7 @@ body{
 	margin-left: 0px;
 	margin-right: 0px;
 	font-family: 'GoudyBookletter1911', Helvetica;
-	font-size: 120%;
+	font-size: 125%;
 }
 
 /*MENU STYLE*/
